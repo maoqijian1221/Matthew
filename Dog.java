@@ -1,4 +1,5 @@
 public class Dog {
+
 	String breed;
 	int size;
 	String colour;
