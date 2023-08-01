@@ -1,6 +1,5 @@
 public class TestIfElse {
 	public static void main(String[] args) {
-
 		int x = 40;
         if(x == 10) {
         	System.out.println("x的值是10");
